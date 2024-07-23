@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Keanu Reeves: I'm thinking about death all the time",
+    "description": "The Matrix star's new novel, The Book of Elsewhere, explores the theme of mortality.",
+    "url": "https://www.bbc.co.uk/news/articles/cl7y05lr475o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1aa0/live/57775780-4348-11ef-8895-6d3cb2081c6f.jpg",
+    "publishedAt": "2024-07-23T02:22:12.8426826Z",
+    "content": "Reviews of the comic book were broadly positive when it came out, so Reeves and Miéville will be hoping to replicate that success.\r\nIn Flickering Myth, Calum Petrie awarded it seven out of 10 stars, … [+1225 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hungary stripped of EU meeting over Ukraine stance",
+    "description": "Hungarian PM Viktor Orban sparked anger last week by accusing the EU of pursuing a \"pro-war policy\".",
+    "url": "https://www.bbc.co.uk/news/articles/cgr542l753po",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/881e/live/145bc0f0-4891-11ef-aabe-918677f7d22d.jpg",
+    "publishedAt": "2024-07-23T02:22:11.7179619Z",
+    "content": "Every six months, under each new council presidency, the EU's foreign and defence ministers hold informal meetings to discuss the biggest global issues facing the bloc. \r\nThe next set of meetings wil… [+2165 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Dark oxygen made by deep sea 'batteries'",
+    "description": "The discovery that lumps of metal on the seafloor produce oxygen raises questions over plans to mine the deep ocean.",
+    "url": "https://www.bbc.co.uk/news/articles/c728ven2v9eo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9eef/live/e4ae0c60-482b-11ef-93c3-ffc52948adf5.jpg",
+    "publishedAt": "2024-07-23T01:37:14.7323688Z",
+    "content": "The scientists worked out that the metal nodules are able to make oxygen precisely because they act like batteries.\r\nIf you put a battery into seawater, it starts fizzing, explained Prof Sweetman. Th… [+1177 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sonya Massey: Bodycam footage shows fatal police shooting",
+    "description": "Sonya Massey was shot at her home after police told her to put down a pot of boiling water.",
+    "url": "https://www.bbc.co.uk/news/articles/c28evrd9depo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2590/live/c4ea6a20-4882-11ef-8457-9d0b44a6ddb3.jpg",
+    "publishedAt": "2024-07-23T01:22:15.8571013Z",
+    "content": "Illinois police have released bodycam footage that showed the chaotic moments that led to the fatal shooting of a woman who had called 911 to report a suspected intruder at her home.\r\nThe killing of … [+2292 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Joe Biden tells campaign staff leaving race was right thing to do",
+    "description": "The president asked his former campaign to embrace Vice-President Kamala Harris.",
+    "url": "https://www.bbc.co.uk/news/articles/c51ywewzpz2o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7cd4/live/c99b2850-487f-11ef-9e1c-3b4a473456a6.jpg",
+    "publishedAt": "2024-07-23T00:22:15.5608259Z",
+    "content": "In his first comments since dropping out of the 2024 election, US President Joe Biden called into a campaign staff meeting in Delaware on Monday as his team transitions to supporting Vice-President K… [+1053 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Netanyahu faces delicate balancing act in US after Biden exit",
+    "description": "The Israeli PM's visit comes at a chaotic time in US politics. Can he reset relations in Washington?",
+    "url": "https://www.bbc.co.uk/news/articles/c978qzgnd25o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d094/live/e5345030-4827-11ef-96a8-e710c6bfc866.jpg",
+    "publishedAt": "2024-07-23T00:07:19.0290833Z",
+    "content": "The reality is that Mr Netanyahus polices have fractured that bipartisan support. The Republicans are rallying around him, but criticism from Democrats has grown.\r\nThe Democratic Senate Majority lead… [+1326 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Has Kamala Harris got what it takes to beat Donald Trump?",
+    "description": "Becoming the Democratic nominee may be the easy part. The hard part will be taking on the Republican in November.",
+    "url": "https://www.bbc.co.uk/news/articles/c035dp3glypo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3056/live/49457340-4870-11ef-b74c-bb483a802c97.jpg",
+    "publishedAt": "2024-07-23T00:07:16.9046125Z",
+    "content": "This renewed sense of Democratic presidential enthusiasm comes with a dollar sign attached. According to the Harris campaign, the vice-president raised more than $80m (£62m) in new donations in the 2… [+2221 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "What is Kamala Harris' 'brat' rebrand all about?",
+    "description": "In the opening hours of her campaign she is leaning heavily into a trend popularised by popstar Charlie XCX.",
+    "url": "https://www.bbc.co.uk/news/articles/cqqlgq7k374o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6ed9/live/c8ca7700-4820-11ef-9a09-9322e3b45458.jpg",
+    "publishedAt": "2024-07-22T14:37:18.8839059Z",
+    "content": "The #bratsummer trend has nearly one million posts on TikTok and the lime green theme has been used by thousands of individuals and businesses. \r\nIn recent weeks - as pressure to drop out of the race… [+1573 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Couple found dead weeks after setting off on trip across Atlantic",
+    "description": "Sarah Packwood and husband Brett Clibbery had set off from Nova Scotia and were heading for the Azores on their yacht, Theros",
+    "url": "https://www.bbc.co.uk/news/articles/c84jxgy8nmlo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54ec/live/598e53b0-4745-11ef-9971-855061b2ee05.jpg",
+    "publishedAt": "2024-07-21T10:52:10.0335127Z",
+    "content": "In a post on Facebook, external, Mr Cribbery's son James confirmed the pair had died, saying that the last few days had been very hard.\r\nHe said the couple would be \"forever missed\", adding: \"There i… [+1208 chars]"
+    }
+    ]
+    }
